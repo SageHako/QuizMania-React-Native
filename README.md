@@ -1,4 +1,4 @@
-![Logo do Projeto](https://imgur.com/Ar6lKPq)
+![Logo do Projeto](https://i.imgur.com/Ar6lKPq.png)
 
 #QuizzApp
 Um app de quizz explorando algumas ferramentas!
