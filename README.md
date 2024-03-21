@@ -1,5 +1,9 @@
 ![Logo do Projeto](https://i.imgur.com/Ar6lKPq.png)
 
+![img1](assets/1.jpg)
+![img1](assets/2.jpg)
+![img1](assets/3.jpg)
+
 #  📱 QuizApp
 Um app de quizz explorando algumas ferramentas!
 
